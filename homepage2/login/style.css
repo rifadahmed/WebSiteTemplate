@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body{
+    
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+.login-box{
+position: absolute;
+top:40%;
+left: 50%;
+transform: translate(-50%,-50%);
+
+
+}
+ h1{
+    font-family: 'Chilanka', cursive;
+   width: 115px;
+    border-bottom: 6px solid #459745;
+    
+    font-size: 30px;
+    color: white;
+
+}
+
+.box{
+    font-family: 'Chilanka', cursive;
+    margin-bottom: 30px;
+   padding-bottom:5px; 
+    border-bottom: 1px solid #486f61
+    
+}
+
+
+.btn {
+    font-family: 'Chilanka', cursive;
+    text-align:center;
+    
+    
+  
+    
+}
+
+.btn a{
+    border: 2px solid #459745;
+    text-decoration: none;
+    color: white;
+    padding: 5px 35px;
+    
+    
+}
+
+.btn a:hover{
+    background-color:white;
+    color: black;
+   transition: 0.6s ease;
+   border: none;
+    
+    
+}
+
+
+
+.box input{
+    border: none;
+    background: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 25px;
+    margin: 0 10px;
+}
+i{
+    color: white;
+}

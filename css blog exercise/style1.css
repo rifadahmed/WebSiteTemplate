@@ -1,0 +1,33 @@
+
+div{
+    border: 20px solid #bdc3c7;
+    margin:0 15% 0 15%;
+}
+ p{
+     margin: 3%;
+     font-family: Source Sans Pro;
+ }
+h1{
+    
+        margin: 3%;
+    
+}
+#one{
+    border-left: 5px solid #bdc3c6;
+    padding-left: 5px;
+}
+#two{
+    border-bottom: 2px solid #ebf0f1;
+    padding-bottom:5px; 
+}
+
+#three{
+    border-left: 5px solid #bdc3c6;
+    padding-left: 5px;
+}
+#date1:hover{
+    text-transform: uppercase;
+    color:rgb(43, 189, 225);
+    font-weight: 800;
+    letter-spacing: 3px;
+}
